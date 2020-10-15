@@ -1,0 +1,11 @@
+{
+    "body": "{\"content\":\"new world ok\", \"attachment\":\"other.pdf\"}",
+    "pathParameters": {
+      "id": "6fcb7c40-0df4-11eb-b44e-cf43fbf7a8dc"
+    },
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+}
